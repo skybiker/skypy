@@ -4,9 +4,12 @@
 
 This project is my first project on github
 
-# Project 
-## Subproject
+# Chapter 1
+# Project 1 
+## Subproject 1.1
 
 1. Design
 2. Development
 3. Test
+
+# Chapter 2
