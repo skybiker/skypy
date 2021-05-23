@@ -6,6 +6,8 @@
 
 @python code
 
+@doxygen
+
 ## Body
 This project is my first project on github
 
