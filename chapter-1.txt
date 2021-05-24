@@ -1,3 +1,7 @@
+# Chapter 1
+
 |Headline |Headline |
 |--- |--- |
 |data1 | data2 |
+
+# Chapter 2 without table
